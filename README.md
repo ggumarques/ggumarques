@@ -1,3 +1,4 @@
+###### Porque é kriptografado 🤣
 ### Olá! Sou Gustavo M. Fonseca 👋🏼
 
 ### Siga-me nas redes sociais:
