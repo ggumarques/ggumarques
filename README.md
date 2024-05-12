@@ -1,3 +1,4 @@
+###### Por que está Krypton-grafado 😂
 ### Olá! Sou Gustavo M. Fonseca 👋🏼
 
 ### Siga-me nas redes sociais:
