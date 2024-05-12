@@ -9,7 +9,7 @@
 
 ![Marques GitHub stats](https://github-readme-stats.vercel.app/api?username=ggumarques&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggumarques&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggumarques&layout=compact)
 
 ### Hard Skills e Tecnologias
 
