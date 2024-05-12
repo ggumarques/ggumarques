@@ -22,6 +22,7 @@
     <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ggumarques&layout=compact)
 
 #
 
