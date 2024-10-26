@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=023AFF&size=35&center=true&vCenter=true&width=1000&lines=Porque+é+kriptografado+🤣;OLÁ,+SOU+Gustavo+Marques;Tenho+20+anos+de+idade;Sou+Brasileiro;Formado+em+ADS;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=023AFF&icon_color=023AFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Marques Github Stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ggumarques&show_icons=true&count_private=true&hide_border=true&title_color=023AFF&icon_color=023AFF&text_color=c9d1d9&bg_color=0d1117" alt="Gustavo Marques Github Stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggumarques&layout=compact&hide_border=true&title_color=ff91a4&text_color=ff91a4&bg_color=0d1117" />
 </div>
 
@@ -30,7 +30,7 @@
 
 
 
-### Studying in this moment:
+### Studando no momento:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![Typescript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
